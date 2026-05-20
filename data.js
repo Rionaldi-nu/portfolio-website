@@ -8,7 +8,7 @@ const portfolioData = {
 
   // Ganti dengan path foto profil kamu, contoh: "assets/profile/foto-saya.jpg".
   // Pakai garis miring biasa "/", bukan backslash "\".
-  profileImage: "assets/profile/profile.jpg",
+  profileImage: "assets/profile/profilesaya.jpg",
 
   hero: {
     label: "3D Modeling - Robotics - Automation",
@@ -105,7 +105,7 @@ const portfolioData = {
         title: "Automated Waste Shorting Robot",
 
         image:
-          "assets/projects/krtmi.jpg",
+          "assets/projects/krtmielpan.jpg",
 
         // Isi url dengan link GitHub, demo, video, atau dokumentasi project.
         url:
