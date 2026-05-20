@@ -296,6 +296,14 @@ const portfolioData = {
 
         url:
           "mailto:your.Naldirio386@gmail.com"
+      },
+      {
+        label: "Instagram",
+
+        icon: "fa-brands fa-instagram",
+
+        url:
+          "https://www.instagram.com/rionaldi.nu/"
       }
     ]
   }
